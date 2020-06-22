@@ -1,5 +1,5 @@
 # Training basic concepts of ASP.NET Core 3.1 and Knockout JS
-Working in progress...
+Work in progress...
 
 ## Prerequisites
 - Creates a database and provides its connection string in the appsettings.json file;
