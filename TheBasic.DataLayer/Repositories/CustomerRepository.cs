@@ -8,7 +8,7 @@ using TheBasic.DataLayer.Repositories.Interfaces;
 namespace TheBasic.DataLayer.Repositories
 {
     /// <summary>
-    /// Client Action Repository
+    /// Customer Repository
     /// </summary>
     public class CustomerRepository : BaseRepository<Customer>, ICustomerRepository
     {

@@ -1,6 +1,5 @@
 C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.DataLayer\bin\Debug\netcoreapp3.1\TheBasic.DataLayer.deps.json
 C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.DataLayer\bin\Debug\netcoreapp3.1\TheBasic.DataLayer.dll
-C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.DataLayer\obj\Debug\netcoreapp3.1\TheBasic.DataLayer.csprojAssemblyReference.cache
 C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.DataLayer\obj\Debug\netcoreapp3.1\TheBasic.DataLayer.AssemblyInfoInputs.cache
 C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.DataLayer\obj\Debug\netcoreapp3.1\TheBasic.DataLayer.AssemblyInfo.cs
 C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.DataLayer\bin\Debug\netcoreapp3.1\TheBasic.DataLayer.pdb
