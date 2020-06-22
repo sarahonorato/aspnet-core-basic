@@ -1,0 +1,9 @@
+C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.ViewModel\bin\Debug\netcoreapp3.1\TheBasic.ViewModel.deps.json
+C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.ViewModel\bin\Debug\netcoreapp3.1\TheBasic.ViewModel.dll
+C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.ViewModel\bin\Debug\netcoreapp3.1\TheBasic.ViewModel.pdb
+C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.ViewModel\obj\Debug\netcoreapp3.1\TheBasic.ViewModel.csprojAssemblyReference.cache
+C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.ViewModel\obj\Debug\netcoreapp3.1\TheBasic.ViewModel.AssemblyInfoInputs.cache
+C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.ViewModel\obj\Debug\netcoreapp3.1\TheBasic.ViewModel.AssemblyInfo.cs
+C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.ViewModel\obj\Debug\netcoreapp3.1\TheBasic.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.ViewModel\obj\Debug\netcoreapp3.1\TheBasic.ViewModel.dll
+C:\Users\shonorato.BAT\Documents\GitHub\aspnet-core-basic\TheBasic.ViewModel\obj\Debug\netcoreapp3.1\TheBasic.ViewModel.pdb
