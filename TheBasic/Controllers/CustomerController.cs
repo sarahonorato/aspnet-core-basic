@@ -5,11 +5,11 @@ using TheBasic.Models;
 
 namespace TheBasic.Controllers
 {
-    public class HomeController : Controller
+    public class CustomerController : Controller
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public CustomerController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }

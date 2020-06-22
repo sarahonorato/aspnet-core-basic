@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBasic.ViewModel", "..\Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBasic.DataLayer", "..\TheBasic.DataLayer\TheBasic.DataLayer.csproj", "{4B8295A8-760B-4401-A82A-9718A8C3AC60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBasic.Logic", "..\TheBasic.Logic\TheBasic.Logic.csproj", "{58F6AEB6-DD1B-491A-8E80-42DB7719F374}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4B8295A8-760B-4401-A82A-9718A8C3AC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B8295A8-760B-4401-A82A-9718A8C3AC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B8295A8-760B-4401-A82A-9718A8C3AC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F6AEB6-DD1B-491A-8E80-42DB7719F374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F6AEB6-DD1B-491A-8E80-42DB7719F374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F6AEB6-DD1B-491A-8E80-42DB7719F374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F6AEB6-DD1B-491A-8E80-42DB7719F374}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

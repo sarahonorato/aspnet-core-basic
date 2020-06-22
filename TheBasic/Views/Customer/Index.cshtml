@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Customer";
+}
+
+    <div class="container-fluid">
+        <div class="row">
+            <h1 class="page-header">Customers</h1>
+        </div>
+        <div class="col-md-8 input-group" style="float:left">
+            <div class="row">
+                <div class="table-responsive col-md-4" style="padding: 0px !important;">
+                    <div class="input-group col-md-12" style="">
+                        <input id="search-customer-name-or-id" type="search" class="form-control searchbox" placeholder="Search by Customer's name" />
+                        <div class="input-group-addon">
+                            <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <table class="table table-striped table-bordered table-hover dataTable" id="customerResults" role="grid" aria-describedby="dataTables-example_info" style="width: 50%;">
+                    <tbody>
+                        <tr role="row">
+                            <td style="vertical-align: middle; cursor: pointer;">
+                                <a><span></span></a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
